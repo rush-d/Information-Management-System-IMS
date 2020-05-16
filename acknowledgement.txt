@@ -1,0 +1,7 @@
+These following people helped me in debugging certain issues:-
+Gourav Kumbhojkar : Identify bug with mod_courses function
+Abhishek Raj : Bug with file scanning
+Amogh Dasture : Bug with memory allocation
+
+Sample Code was given by:-
+Sandeep R.B.

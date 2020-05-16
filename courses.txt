@@ -1,0 +1,57 @@
+7
+
+CS102
+Computer Programming
+8
+3
+Instructor1 Instructor2 Instructor3 
+3
+180010090 180020091 180030091 
+
+EE102
+Basic Electronics
+7
+1
+Instructor4 
+3
+180010090 180020091 180030091 
+
+PH102
+Basic Physics
+6
+1
+Instructor5 
+2
+180020091 180030091 
+
+AS102
+Ocean Engg
+2
+1
+GH102 
+1
+5645312 
+
+PRNO69
+default
+1
+1
+default 
+1
+default 
+
+WE11
+default
+1
+1
+default 
+1
+default 
+
+WE22
+default
+1
+1
+default 
+1
+default 
